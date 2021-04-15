@@ -1,6 +1,6 @@
 # Modal Menu Slider
 
-> Fictional landing page with a modal and a menu slider.
+> Fictional landing page with a modal and a side navigation slider.
 
 ## Table of contents
 
@@ -18,9 +18,10 @@ The project uses JavaScript with event listeners to add and remove CSS classes t
 
 ## Screenshots
 
-![Screenshot]()
+![Screenshot](https://user-images.githubusercontent.com/57517804/114872275-bce7f580-9e2c-11eb-812f-2bb29434daef.png)
 
-[Demo]()
+
+[Demo](https://nostalgic-hopper-9862ca.netlify.app)
 
 ## Built With
 
